@@ -10,11 +10,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A self-taught, enthusiastic front-end developer
+- Enjoy solving Capture The Flag (CTF) challenges in my spare time
+- Currently diving deep into web development through self-learning
 
 <br><br>
 
@@ -77,18 +75,20 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/dantè-cs-strijdom-796543317/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/dantè-cs-strijdom-796543317/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin: dantè-cs-strijdom-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
 </li>
+
 
 <br>
 
 <li>
-<a href="mailto:cs.dantestrijdom@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:cs.dantestrijdom@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail: cs.dantestrijdom-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+  </a>
 </li>
+
 
 </ul>
 </div>
