@@ -6,7 +6,7 @@
 
 ## <picture> <img src="https://i.gifer.com/Ry6p.gif" width="25px"></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="250px"></picture>
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrNzZjNmllYnJhZDN1dGF2M2o0cWM0a2ZzbXdmc212cGpvdG94bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"></picture>
 
 <br>
 
