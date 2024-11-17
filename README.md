@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Let's+Get+Coding" alt="Typing SVG">
 </p>
 
-## <picture> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcode&psig=AOvVaw2PJ4tuR8FtudD918IJpfOx&ust=1731955014334000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND5_KyB5IkDFQAAAAAdAAAAABAo" width="50px"></picture> **About me**
+## <picture> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcode&psig=AOvVaw2PJ4tuR8FtudD918IJpfOx&ust=1731955014334000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND5_KyB5IkDFQAAAAAdAAAAABAo" width="25px"></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
