@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Let's+Get+Coding" alt="Typing SVG">
 </p>
 
-## <picture> <img src="https://i.gifer.com/Ry6p.gif" width="25px"></picture> **About me**
+## 👦 **About me**
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrNzZjNmllYnJhZDN1dGF2M2o0cWM0a2ZzbXdmc212cGpvdG94bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"></picture>
 
