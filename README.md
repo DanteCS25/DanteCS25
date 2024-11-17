@@ -6,7 +6,7 @@
 
 ## <picture> <img src="https://i.gifer.com/Ry6p.gif" width="25px"></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture> <img align="right" src="https://dribbble.com/shots/3587000-Coding?utm_source=Clipboard_Shot&utm_campaign=guillaumekurkdjian&utm_content=Coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=guillaumekurkdjian&utm_content=Coding&utm_medium=Social_Share" width="250px"></picture>
 
 <br>
 
